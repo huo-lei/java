@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b91a276c-bec5-44c4-b2e5-1fb8c84d0202" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZnN4gWTPOT9YNdeezWa66dG9cA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="google-java-format.settings" />
+  </component>
+  <component name="RunManager" selected="Application.LongestPalindromic">
+    <configuration name="LongestPalindromic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.LongestPalindromic" />
+      <module name="Solution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.LongestSubstring" />
+      <module name="Solution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MedianOfTwoSourtedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.MedianOfTwoSourtedArrays" />
+      <module name="Solution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NetWorkConnections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.NetWorkConnections" />
+      <module name="Solution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.TwoSum" />
+      <module name="Solution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.LongestSubstring" />
+      <item itemvalue="Application.NetWorkConnections" />
+      <item itemvalue="Application.TwoSum" />
+      <item itemvalue="Application.MedianOfTwoSourtedArrays" />
+      <item itemvalue="Application.LongestPalindromic" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LongestPalindromic" />
+        <item itemvalue="Application.MedianOfTwoSourtedArrays" />
+        <item itemvalue="Application.TwoSum" />
+        <item itemvalue="Application.NetWorkConnections" />
+        <item itemvalue="Application.LongestSubstring" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b91a276c-bec5-44c4-b2e5-1fb8c84d0202" name="Default Changelist" comment="" />
+      <created>1585470708116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585470708116</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="805" y="311" key="FileChooserDialogImpl" timestamp="1585573408795">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="805" y="311" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1585573408795" />
+    <state width="2005" height="150" key="GridCell.Tab.0.bottom" timestamp="1587125475969">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="150" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1587125475969" />
+    <state width="2005" height="150" key="GridCell.Tab.0.center" timestamp="1587125475969">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="150" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1587125475969" />
+    <state width="2005" height="150" key="GridCell.Tab.0.left" timestamp="1587125475968">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="150" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1587125475968" />
+    <state width="2005" height="150" key="GridCell.Tab.0.right" timestamp="1587125475969">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="150" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1587125475969" />
+    <state width="2005" height="308" key="GridCell.Tab.1.bottom" timestamp="1586073625900">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="308" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1586073625900" />
+    <state width="2005" height="308" key="GridCell.Tab.1.center" timestamp="1586073625900">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="308" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1586073625900" />
+    <state width="2005" height="308" key="GridCell.Tab.1.left" timestamp="1586073625900">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="308" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1586073625900" />
+    <state width="2005" height="308" key="GridCell.Tab.1.right" timestamp="1586073625900">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="308" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1586073625900" />
+    <state x="578" y="211" key="SettingsEditor" timestamp="1586821915681">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="578" y="211" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1586821915681" />
+    <state x="705" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1587871103989">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="705" y="380" key="com.intellij.ide.util.TipDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1587871103989" />
+    <state x="681" y="155" width="685" height="801" key="find.popup" timestamp="1587871577394">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="681" y="155" width="685" height="801" key="find.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1587871577394" />
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1586821747945">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1586821747945" />
+  </component>
+</project>
