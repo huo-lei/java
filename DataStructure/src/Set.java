@@ -1,4 +1,11 @@
-package PACKAGE_NAME;
+public interface Set<E> {
+  void add(E e);
 
-public interface Set {
+  void remove(E e);
+
+  boolean contains(E e);
+
+  int getSize();
+
+  boolean isEmpty();
 }

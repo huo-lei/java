@@ -69,6 +69,7 @@ public class BST<E extends Comparable<E>> {
       return new Node(e);
     }
 
+
     if (e.compareTo(node.e) < 0) node.left = add(node.left, e);
     else if (e.compareTo(node.e) > 0) node.right = add(node.right, e);
     return node;
