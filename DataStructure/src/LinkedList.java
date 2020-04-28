@@ -88,6 +88,19 @@ public class LinkedList<E> {
     return remove(size - 1);
   }
 
+  public void removeElement(E e) {
+    Node prev = dummyHead;
+    while (prev.next != null) {
+      if (prev.next.e.equals(e)) break;
+      prev = prev.next;
+    }
+    if (prev.next != null) {
+      Node delNode = prev.next;
+      prev.next = delNode.next;
+      delNode.next = null;
+    }
+  }
+
   public boolean contains(E e) {
     Node cur = dummyHead.next;
     while (cur != null) {

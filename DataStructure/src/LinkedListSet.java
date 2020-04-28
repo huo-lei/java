@@ -1,35 +1,38 @@
 import java.util.ArrayList;
 
-public class BSTSet<E extends Comparable<E>> implements Set<E> {
-  private BST<E> bst;
+public class LinkedListSet<E> implements Set<E> {
 
-  public BSTSet() {
-    bst = new BST<>();
+  private LinkedList<E> list;
+
+  public LinkedListSet() {
+    list = new LinkedList<>();
   }
 
   @Override
   public void add(E e) {
-    bst.add(e);
+    if (!list.contains(e)) {
+      list.addFirst(e);
+    }
   }
 
   @Override
   public void remove(E e) {
-    bst.remove(e);
+    list.removeElement(e);
   }
 
   @Override
   public boolean contains(E e) {
-    return bst.contains(e);
+    return list.contains(e);
   }
 
   @Override
   public int getSize() {
-    return bst.size();
+    return list.getSize();
   }
 
   @Override
   public boolean isEmpty() {
-    return bst.isEmpty();
+    return list.isEmpty();
   }
 
   public static void main(String[] args) {
@@ -38,7 +41,7 @@ public class BSTSet<E extends Comparable<E>> implements Set<E> {
 
     if (FileOperation.readFile("jane-austen-pride-prejudice.txt", wordsForPP)) {
       System.out.println("Total words: " + wordsForPP.size());
-      BSTSet<String> set1 = new BSTSet<>();
+      LinkedListSet<String> set1 = new LinkedListSet<>();
       for (String word : wordsForPP) set1.add(word);
       System.out.println("Total different words: " + set1.getSize());
     }
@@ -48,7 +51,7 @@ public class BSTSet<E extends Comparable<E>> implements Set<E> {
 
     if (FileOperation.readFile("tale-of-two-cities.txt", wordsForTC)) {
       System.out.println("Total words: " + wordsForTC.size());
-      BSTSet<String> set2 = new BSTSet<>();
+      LinkedListSet<String> set2 = new LinkedListSet<>();
       for (String word : wordsForTC) set2.add(word);
       System.out.println("Total different words: " + set2.getSize());
     }
