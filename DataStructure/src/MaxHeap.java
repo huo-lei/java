@@ -69,6 +69,23 @@ public class MaxHeap<E extends Comparable<E>> {
     }
   }
 
+  public E replace(E e) {
+    E ret = findMax();
+    data.set(0, e);
+    siftDown(0);
+    return ret;
+  }
+
+  /**
+   * put n elements into empty heap, o(nlongn), while heapify time complexity o(n)
+   *
+   * @param args
+   */
+  public MaxHeap(E[] arr) {
+    data = new Array<>(arr);
+    for (int i = parent(arr.length - 1); i >= 0; i--) siftDown(i);
+  }
+
   public static void main(String[] args) {
     int n = 10000;
     MaxHeap<Integer> maxHeap = new MaxHeap<>();
