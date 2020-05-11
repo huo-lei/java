@@ -34,6 +34,7 @@ public class TopKFreq {
         pq.remove();
         pq.add(new Freq(key, map.get(key)));
       }
+
     }
     int[] res = new int[k];
     int i = 0;
