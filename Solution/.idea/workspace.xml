@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b91a276c-bec5-44c4-b2e5-1fb8c84d0202" name="Default Changelist" comment="" />
+    <list default="true" id="b91a276c-bec5-44c4-b2e5-1fb8c84d0202" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../DataStructure/src/HashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/src/RBTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/FirstUnique.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/out/production/Array/Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/out/production/Array/ArrayQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/out/production/Array/ArrayStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/out/production/Array/BST$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/out/production/Array/BST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/out/production/Array/LinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/out/production/Array/LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/out/production/Array/LinkedListQueue$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/out/production/Array/LinkedListQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/out/production/Array/LinkedListStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/out/production/Array/LoopQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/out/production/Array/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/out/production/Array/Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/out/production/Array/Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/out/production/Array/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Solution/com/company/AddTwoNumbers$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Solution/com/company/AddTwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Solution/com/company/CombinationSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Solution/com/company/Combinations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Solution/com/company/GenerateParentheses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Solution/com/company/LongestPalindromic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Solution/com/company/LongestSubstring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Solution/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Solution/com/company/MedianOfTwoSourtedArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Solution/com/company/NetWorkConnections.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Solution/com/company/TwoSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Solution/com/company/ValidParentheses.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +47,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ZnN4gWTPOT9YNdeezWa66dG9cA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,7 +59,7 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="google-java-format.settings" />
   </component>
   <component name="RunManager" selected="Application.LongestPalindromic">
@@ -119,9 +156,44 @@
       <option name="presentableId" value="Default" />
       <updated>1585470708116</updated>
     </task>
+    <task id="LOCAL-00001" summary="PriorityQueue">
+      <created>1589207563535</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589207563535</updated>
+    </task>
+    <task id="LOCAL-00002" summary="PriorityQueue">
+      <created>1589207628593</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589207628593</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Segment Tree">
+      <created>1589539129799</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589539129799</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="PriorityQueue" />
+    <MESSAGE value="Segment Tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="Segment Tree" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="830" y="266" key="#com.intellij.ide.util.MemberChooser" timestamp="1589205270991">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="830" y="266" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1112@0.0.2048.1112" timestamp="1589205270991" />
+    <state x="665" y="146" key="CommitChangelistDialog2" timestamp="1589539128123">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="665" y="146" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1589539128123" />
     <state x="805" y="311" key="FileChooserDialogImpl" timestamp="1585573408795">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -162,6 +234,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="578" y="211" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1586821915681" />
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1589539131426">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1589539131426" />
     <state x="705" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1587871103989">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
